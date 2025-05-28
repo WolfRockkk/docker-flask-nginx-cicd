@@ -43,4 +43,3 @@ This project demonstrates how to build and deploy a simple web application using
     ```
 
 ## Project Structure
-
